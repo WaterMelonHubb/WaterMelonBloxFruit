@@ -1,3 +1,5 @@
+--Support Blox Fruit, Blade Ball, Speed Of Legend, Ninja Legend!
+--If u trying to skid ill say "u cant"
 repeat task.wait() until game:IsLoaded()
 local TablePlace = {7449423635,2753915549,4442272183}
 if table.find(TablePlace,game.PlaceId) then 
