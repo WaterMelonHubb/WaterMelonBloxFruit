@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WaterMelonHubb/WaterMelonBloxFruit/main/Protected_8209986568532126.lua%20(1).txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WaterMelonHubb/WaterMelonBloxFruit/main/Protected_3354778016186981.lua.txt"))()
