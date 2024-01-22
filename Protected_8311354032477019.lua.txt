@@ -1,1 +1,1 @@
-loadstring(game:GetHttp("https://paste.gg/p/hii/2688e94eb34c40f2a3e5e245bab46674/files/0bb0afc1521a4c8e92e31d1efa10ac91/raw"))()
+loadstring(game:HttpGet("https://paste.gg/p/hii/2688e94eb34c40f2a3e5e245bab46674/files/0bb0afc1521a4c8e92e31d1efa10ac91/raw"))()
